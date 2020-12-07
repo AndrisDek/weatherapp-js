@@ -5,11 +5,13 @@
 ## Pre-requisites
   Node.js 9.8.0 and above
 
-## Cloning project
-Run this command in your VSC terminal
+## Opening project
+Open weatherapp-js folder in your VSC<br>
+Run this line in your terminal
 ```
-git clone https://github.com/AndrisDek/weatherapp-js.git
+npm install
 ```
 ## Running
-  Run it on your local server host<br>
+  Use "Live Server" extension
+  Run it by pressing on "Go Live" button in your VSC<br>
   Write a city into placeholder and press ENTER for it to run

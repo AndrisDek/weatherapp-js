@@ -1,11 +1,12 @@
 # Weather for specific city
 
-## Video
+## Project GIF
   ![](weatherapp-js.gif)
 ## Pre-requisites
   Node.js 9.8.0 and above
 
 ## Cloning project
+Run this command in your VSC terminal
 ```
 git clone https://github.com/AndrisDek/weatherapp-js.git
 ```

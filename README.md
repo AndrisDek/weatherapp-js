@@ -7,7 +7,7 @@
 
 ## Opening project
 Download this project as .zip and unzip it<br>
-Open weatherapp-js folder in your VSC<br>
+Open weatherapp-js-main folder in your VSC<br>
 Run this line in your terminal
 ```
 npm install

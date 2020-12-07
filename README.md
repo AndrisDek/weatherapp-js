@@ -12,4 +12,4 @@ git clone https://github.com/AndrisDek/weatherapp-js.git
 ```
 ## Running
   Run it on your local server host
-  
+  Write a city into placeholder and press ENTER for it to run

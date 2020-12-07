@@ -11,5 +11,5 @@ Run this command in your VSC terminal
 git clone https://github.com/AndrisDek/weatherapp-js.git
 ```
 ## Running
-  Run it on your local server host
+  Run it on your local server host<br>
   Write a city into placeholder and press ENTER for it to run

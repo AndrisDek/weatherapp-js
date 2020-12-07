@@ -6,6 +6,7 @@
   Node.js 9.8.0 and above
 
 ## Opening project
+Download this project as .zip and unzip it
 Open weatherapp-js folder in your VSC<br>
 Run this line in your terminal
 ```
